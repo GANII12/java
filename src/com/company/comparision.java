@@ -6,7 +6,6 @@ public class comparision {
             Integer integer1 = sc.next.Int();
             Integer integer2 = 20;
         System.out.println("compare output: "+integer1.compareTo(integer2));
-
     }
 
 }
